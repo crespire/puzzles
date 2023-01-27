@@ -17,3 +17,4 @@ p balanced_array?([])
 p balanced_array?([1])
 p balanced_array?([2])
 p balanced_array?(Array.new(16) { rand(1000) })
+
