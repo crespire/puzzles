@@ -10,6 +10,7 @@ def balanced_array?(arr)
   balance.zero?
 end
 
+# Add some basic tests
 p balanced_array?([1, 2])
 p balanced_array?([1, 1])
 p balanced_array?([])
